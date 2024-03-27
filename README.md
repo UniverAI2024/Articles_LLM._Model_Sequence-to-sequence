@@ -1,1 +1,1 @@
-# Lesson-19_LLM.-Model-Sequence-to-sequence
+# Lesson-19_LLM._Model_Sequence-to-sequence
